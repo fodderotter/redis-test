@@ -1,0 +1,21 @@
+{
+  "name": "redis-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bull": "2.1.0",
+    "diff": "^3.2.0",
+    "hapi": "16.1.0",
+    "mongodb": "^2.2.21",
+    "mongodb-uri": "^0.9.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
